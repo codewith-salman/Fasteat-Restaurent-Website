@@ -49,7 +49,7 @@ This project was created using:
 
 ## Contact
 
-LinkedIn - [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-Email - [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+LinkedIn Profile - [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
+Email Address - [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
