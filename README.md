@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-# 🍽️ FastEat Restaurant Website
+# 🍽️ FastEat Restaurant Website 🍽️
 
 </div>
 
